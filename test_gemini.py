@@ -68,7 +68,7 @@ async def main_async():
 
 if __name__ == "__main__":
     # Set the API key for Google Gemini
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyD0KhgiAbFgMfZy_J8fsa_eTlNDwYQZL6A"
+    os.environ["GOOGLE_API_KEY"] = "Google_API_Key"
     #print(main())
     asyncio.run(main_async())
     
