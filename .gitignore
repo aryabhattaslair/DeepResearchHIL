@@ -1,0 +1,18 @@
+# Apple file
+.DS_Store
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore sensitive data
+config.ini
+secrets.json
